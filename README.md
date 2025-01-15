@@ -17,4 +17,12 @@ To run this project, install the following dependencies:
 - seaborn
 
 ## Getting Started
-1. Clone this repository:
+1. Install dependencies:
+pip install -r requirements.txt
+
+2. Open the Jupyter Notebook:
+jupyter notebook Titanic_Survival_Analysis.ipynb
+
+## Dataset
+The dataset is sourced from Kaggle's Titanic competition: [Titanic Dataset](https://www.kaggle.com/c/titanic/data).
+
