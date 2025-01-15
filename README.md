@@ -17,6 +17,8 @@ To run this project, install the following dependencies:
 - seaborn
 
 ## Getting Started
+1. Clone this repository:
+git clone https://github.com/sijaz-lab/Titanic-Survival-Analysis.git
 1. Install dependencies:
 pip install -r requirements.txt
 
